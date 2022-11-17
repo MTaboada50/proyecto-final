@@ -40,6 +40,8 @@
 
 . Estructura basica: header, main, footer | section, nav, article
 
+
+
 -—-CSS———
 
 . Nomeclatura clara de las clases, respetar metodología: BEM, camelCase o kebab-case
@@ -54,6 +56,8 @@
 
 . Uso de Transition y Animaciones.
 
+
+
 -—- SASS ——
 
 SASS ES OBLIGATORIO!
@@ -66,6 +70,8 @@ SASS ES OBLIGATORIO!
 
 . MAP, EXTEND Y MIXIN - SUMA PUNTOS!
 
+
+
 -—- FRAMEWORK (BOOTSTRAP) —–
 
 NO ES OBLIGATORIO.
@@ -75,6 +81,8 @@ NO ES OBLIGATORIO.
 . No anidar containers a lo loco.
 
 . CUSTOMIZACIÓN DE COMPONENTES! IMPORTANTISIMO. (colores, tamaños, tipografías, bordes, outline)
+
+
 
 -—- CARPETA y Archivos —–
 
@@ -88,6 +96,8 @@ NO ES OBLIGATORIO.
 
 . Optimización de imagenes - MEJOR HECHO, MAS PUNTOS. (120kb - 70kb)
 
+
+
 -—- Git y GitHub —-
 
 . Web carga en el repositorio de GitHub.
@@ -99,6 +109,8 @@ NO ES OBLIGATORIO.
 . No subir archivos que no corresponden a GitHub.
 
 . SE TOMA EN CUENTA LO PRESENTE EN LA RAMA MAIN.
+
+
 
 -—- SITIO WEB —–
 
@@ -122,6 +134,8 @@ NO ES OBLIGATORIO.
 
 . Los enlaces/botones sean minimamente interactivos.
 
+
+
 -—- ¿Cómo se presenta el trabajo? —-
 
 . Enlace a repositorio de GitHub ( ENLACE EN LA OPCION A DE LA ENTREGA )
@@ -133,3 +147,6 @@ NO ES OBLIGATORIO.
 . Comentario con aclaraciones si es que corresponde.
 
 . Sumar un rar/zip adjunto por las dudas sería ideal.
+
+
+
