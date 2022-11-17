@@ -1,0 +1,135 @@
+-——–HTML——-
+
+. Estructura clara: Correcta indentanción.
+
+. Etiquetas Semanticas:
+
+. Que no haya exceso de div.
+
+. Que se respete el orden de las etiquetas h1, h2
+
+. No se repite el H1, y que esté presente una vez en todos los archivos.
+
+. No más Lorem Ipsum.
+
+. No br
+
+. Prolijidad con los comentarios.
+
+. 5 secciones como minimo.
+
+. Etiquetas de SEO en todas las secciones ( y title).
+
+. Formularios:
+
+- Que no se repitan los IDS.
+
+- Respetar los atributos de los campos y de los label (for e ID)
+
+- Recordar incorporar atributo name a los inputs.
+
+- Siempre en etiqueta form
+
+- OBLIGATORIO EL USO DE LABEL
+
+- Uso correcto de cada type=”” para cada campo.
+
+. Correcto linkeo de todos los archivos.
+
+. Alt de las imagenes: descriptivo y claro. Ejemplo: “Perro mordiendo señora en el banco”
+
+. Estructura basica: header, main, footer | section, nav, article
+
+-—-CSS———
+
+. Nomeclatura clara de las clases, respetar metodología: BEM, camelCase o kebab-case
+
+. Unidades de medida bien implementadas.
+
+. Código prolijo.
+
+. FlexBox es vida.
+
+. Buen reciclado de las clases - SUMA PUNTOS!
+
+. Uso de Transition y Animaciones.
+
+-—- SASS ——
+
+SASS ES OBLIGATORIO!
+
+. Utilizar Partials. (Respetar estructura de carpetas)
+
+. Utilizar variables.
+
+. Utilizar nesting.
+
+. MAP, EXTEND Y MIXIN - SUMA PUNTOS!
+
+-—- FRAMEWORK (BOOTSTRAP) —–
+
+NO ES OBLIGATORIO.
+
+. ESTRUCTURA GRILLA BASICA: CONTAINER, ROW, COL.
+
+. No anidar containers a lo loco.
+
+. CUSTOMIZACIÓN DE COMPONENTES! IMPORTANTISIMO. (colores, tamaños, tipografías, bordes, outline)
+
+-—- CARPETA y Archivos —–
+
+. Correcta nomeclatura de archivos y carpetas (SIN ESPACIOS, SIN TILDES, SIN CARACTERES ESPECIALES, SIN MAYÚSCULAS)
+
+. Correcta subdivisión de archivos en carpetas. (pages - css - img - scss - js)
+
+. HTML en subdirectorio.
+
+. Index en carpeta raíz.
+
+. Optimización de imagenes - MEJOR HECHO, MAS PUNTOS. (120kb - 70kb)
+
+-—- Git y GitHub —-
+
+. Web carga en el repositorio de GitHub.
+
+. GitHub pages activa.
+
+. Correctos mensajes en los commits.
+
+. No subir archivos que no corresponden a GitHub.
+
+. SE TOMA EN CUENTA LO PRESENTE EN LA RAMA MAIN.
+
+-—- SITIO WEB —–
+
+. OBVIAMENTE 100% RESPONSIVE. ( 375px - 1200px )
+
+. Navegación Clara.
+
+. Paleta basica, principalmente para la personalización de los componentes.
+
+. Imagenes apropiadas. (Object-fit)
+
+. Textos reales. NADA DE LOREM.
+
+. Ojo con las faltas de ortografía.
+
+. Jeraquización del contenido.
+
+. CONTENIDO EN TODAS LAS SECCIONES Y PERTINENTE A LA SECCION EN CUESTIÓN.
+
+. NO VALE REPETIR CONTENIDO - Personalización del contenido.
+
+. Los enlaces/botones sean minimamente interactivos.
+
+-—- ¿Cómo se presenta el trabajo? —-
+
+. Enlace a repositorio de GitHub ( ENLACE EN LA OPCION A DE LA ENTREGA )
+
+. ¡GITHUB PAGES ACTIVADO!
+
+. Web cargada en Netlify / Vercel / 000webhost.
+
+. Comentario con aclaraciones si es que corresponde.
+
+. Sumar un rar/zip adjunto por las dudas sería ideal.
